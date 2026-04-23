@@ -10,7 +10,7 @@ My Core Focus (Since January 2025):
 
 - Devin Enterprise: Managed the full deployment lifecycle – from evaluation through to Enterprise plan adoption, working closely with Cognition's Deployed Engineer. Handled workspace isolation, GitHub integration, ACU consumption monitoring, and contract renewal.
 
-- Technology Evaluation & Vendor Partnerships: Managing relationships across multiple AI tool providers – evaluating enterprise offerings, negotiating licence terms, and monitoring utilisation. Currently assessing Claude Enterprise and Cursor Enterprise alongside existing deployments.
+- Technology Evaluation & Vendor Partnerships: Managing enterprise dialogue with AI tool vendors (Anthropic Japan, Anysphere, Aqua Voice) – evaluating enterprise offerings, negotiating licence terms, and monitoring utilisation. Recently co-led a Claude Enterprise evaluation.
 
 Previously in the Global Engineering Department at Yoshizumi Holdings, I coordinated cross-border collaboration across APAC and AMER (Brazil).
 
