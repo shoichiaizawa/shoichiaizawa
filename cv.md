@@ -13,6 +13,7 @@ Looking to move from operating Customer Zero on the customer side to driving dep
 ## Experience
 
 ### Cloud Ace, Inc. – CTO Office, AI Partnerships & Technical Enablement
+
 *January 2025 – Present · Tokyo*
 
 Member of the CTO Office responsible for evaluating, deploying, and operating AI developer tools across a ~300-engineer organisation; primary internal owner for Devin Enterprise and Gemini Enterprise adoption.
@@ -42,12 +43,14 @@ Member of the CTO Office responsible for evaluating, deploying, and operating AI
 - Quotation and licensing interface for Anysphere (Cursor) within Cloud Ace's enterprise tooling portfolio.
 
 ### Yoshizumi Holdings, Inc. – Global Technology & Business Coordinator
+
 *January 2024 – December 2024 · Tokyo*
 
 - Member of the Global Engineering Department (four-person team reporting to a French engineering manager); served as the English-speaking technical node for Yoshizumi Group's APAC and Brazil engineering coordination.
 - Designed and ran a cross-country technical Guild – regular knowledge-sharing sessions on generative AI, application modernisation, and infrastructure modernisation – with engineers in Vietnam, Indonesia, the Philippines, Singapore, and Brazil.
 
 ### Cloud Ace, Inc. – Technical Unit Manager, Frontend Division
+
 *May 2021 – December 2023 · Tokyo*
 
 - Transitioned from hands-on engineer to people manager for a technical unit within the Frontend Division.
@@ -56,6 +59,7 @@ Member of the CTO Office responsible for evaluating, deploying, and operating AI
 - Late 2023: intervened on a stalled Looker Studio data visualisation engagement; assumed hands-on delivery to resolve team friction and ensure clean client handover.
 
 ### Cloud Ace, Inc. – Systems Engineer
+
 *July 2018 – April 2021 · Tokyo*
 
 - Delivered cloud-native solutions on Google Cloud for clients ranging from SMBs to major enterprises – including an internal OSS management system for a major telecommunications integrator (React, GKE), Dialogflow + Vue.js chatbot prototypes for Japan's largest telecommunications carrier, and Nuxt.js + Firebase applications.
