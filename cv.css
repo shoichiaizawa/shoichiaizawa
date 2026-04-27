@@ -1,0 +1,61 @@
+@page {
+  size: A4;
+  margin: 1.5cm 1.8cm;
+}
+
+body {
+  font-size: 10.5pt;
+  line-height: 1.4;
+  margin: 0;
+  max-width: none;
+}
+
+h1 {
+  font-size: 1.7em;
+  margin: 0 0 0.2em 0;
+}
+
+h2 {
+  font-size: 1.2em;
+  margin: 0.9em 0 0.3em 0;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+
+h3 {
+  font-size: 1.05em;
+  margin: 0.7em 0 0.2em 0;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+
+h4 {
+  font-size: 1em;
+  margin: 0.5em 0 0.15em 0;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+
+p {
+  margin: 0.35em 0;
+}
+
+ul {
+  margin: 0.25em 0;
+  padding-left: 1.2em;
+}
+
+li {
+  margin: 0.1em 0;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+li > p {
+  margin: 0.1em 0;
+}
+
+h2, h3, h4 {
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
